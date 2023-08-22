@@ -24,7 +24,7 @@ Project ini adalah aplikasi sederhana persewaan mobil menggunakan bahasa pemrogr
  **$ composer update** <br>
 4. Copy file .env.example menjadi .env <br>
  **$ cp .env.example .env** <br>
-5. Buat database baru dengan nama **db_laravel** <br>
+5. Buat database baru dengan nama **db_driverentals** <br>
 6. Setup database yang telah dibuat pada file .env <br>
 &nbsp;**DB_CONNECTION=mysql** <br>
 &nbsp;**DB_H&nbsp;OST=127.0.0.1**<br>
